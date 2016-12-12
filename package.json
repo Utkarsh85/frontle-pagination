@@ -12,5 +12,8 @@
     "middleware"
   ],
   "author": "Utkarsh85",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^4.0.5"
+  }
 }
